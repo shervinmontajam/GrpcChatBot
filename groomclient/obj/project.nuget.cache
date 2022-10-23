@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ADq1EGhwJ28J0XORyzjGl6Qg7CkmCQvbjZeZ/EjPkjvFRH1OMtvQDp8W/PZYZWHE2XpszAai0+XU/ok04WR6A==",
+  "success": true,
+  "projectFilePath": "D:\\Books Projects\\Grpc Memi\\groomclient\\groomclient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shervin\\.nuget\\packages\\google.protobuf\\3.21.8\\google.protobuf.3.21.8.nupkg.sha512",
+    "C:\\Users\\shervin\\.nuget\\packages\\grpc.core.api\\2.49.0\\grpc.core.api.2.49.0.nupkg.sha512",
+    "C:\\Users\\shervin\\.nuget\\packages\\grpc.net.client\\2.49.0\\grpc.net.client.2.49.0.nupkg.sha512",
+    "C:\\Users\\shervin\\.nuget\\packages\\grpc.net.common\\2.49.0\\grpc.net.common.2.49.0.nupkg.sha512",
+    "C:\\Users\\shervin\\.nuget\\packages\\grpc.tools\\2.50.0\\grpc.tools.2.50.0.nupkg.sha512",
+    "C:\\Users\\shervin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\shervin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
